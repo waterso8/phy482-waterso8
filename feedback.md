@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 4
+
+Alyssa, I think what you have written here helps me understand what you intend to dig into, so I apprecaite that. Much of the writing you have done could be worked into the introduction of your paper. But, I still want more details of how the modeling is done. I found the "avalanche of electrons" to be quite suggestive of some sort of interesting model that you could describe, but I think more interestingly was the piece at the end about the Monte Carlo simulations of lightning. I think if you can unpack how folks model lightning in some section of your paper and the describe how Monte Carlo simulations work in this context, you would have a near complete paper that describes the physics of lightning (at least in some restricted context). Moreover, you will have set yourself up for the second project: making a theoretical and computational model of lightning (if you wanted to do that). So, my feedback is more details on the models, but maybe think about digging into the Monte Carlo sim and how it works in some detail.
+
+* Score: 16/20
+
 ## Assignment 3
 
 Alyssa, I'm glad to see that you are focusing on the electrical properties of a thunderstorm. In particular, the article about the physics of lightning seems to have been very helpful in connecting your interests to E&M. I'm still a touch confused abotu what specific aspects of this you are intending to present, so that will need to be clear in your writeup for this week, which is meant to synthesize across the reading that you have done and to present a coherent narrative of what you are intending your project to focus on. That doesn't necessairly mean that you are done reading papers, but rather I want to be able to give you feedback on the narrative that you are preparing.
