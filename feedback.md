@@ -3,9 +3,16 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 5
+
+Alyssa, great idea to present a couple of options here. I think of the two, the Monte Carlo work is more aligned with the spirit of the paper (i.e., present how people model these really cool phenomenon). So, I'd usggest that you do more general unpacking of Monte Carlo simulations and how they are developed, then dig into the specifics of how the simulations that you are presenting in the paper using Monte Carlo. Typically, in Monte Carlo sims you are using so sort of random process to gain a statistical measure of something (that's a general statement), but if you think about finding pi. you randomly drop dots and then you count all the dots inside the unit circle compared to all the ones you dropped. So see if you can come up with the way the lightning is modeled with the MC sim at that level of discussion.
+
+* Score: 20/20
+
+
 ## Assignment 4
 
-Alyssa, I think what you have written here helps me understand what you intend to dig into, so I apprecaite that. Much of the writing you have done could be worked into the introduction of your paper. But, I still want more details of how the modeling is done. I found the "avalanche of electrons" to be quite suggestive of some sort of interesting model that you could describe, but I think more interestingly was the piece at the end about the Monte Carlo simulations of lightning. I think if you can unpack how folks model lightning in some section of your paper and the describe how Monte Carlo simulations work in this context, you would have a near complete paper that describes the physics of lightning (at least in some restricted context). Moreover, you will have set yourself up for the second project: making a theoretical and computational model of lightning (if you wanted to do that). So, my feedback is more details on the models, but maybe think about digging into the Monte Carlo sim and how it works in some detail.
+Alyssa, I think what you have written here helps me understand what you intend to dig into, so I appreciate that. Much of the writing you have done could be worked into the introduction of your paper. But, I still want more details of how the modeling is done. I found the "avalanche of electrons" to be quite suggestive of some sort of interesting model that you could describe, but I think more interestingly was the piece at the end about the Monte Carlo simulations of lightning. I think if you can unpack how folks model lightning in some section of your paper and the describe how Monte Carlo simulations work in this context, you would have a near complete paper that describes the physics of lightning (at least in some restricted context). Moreover, you will have set yourself up for the second project: making a theoretical and computational model of lightning (if you wanted to do that). So, my feedback is more details on the models, but maybe think about digging into the Monte Carlo sim and how it works in some detail.
 
 * Score: 16/20
 
